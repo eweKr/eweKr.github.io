@@ -1,2 +1,4 @@
-# eweKr.github.io
-we-chive
+# ewe github page for Interactive portfolio
+
+- html, css basic
+- d3
